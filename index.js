@@ -42,5 +42,5 @@ app.post("/login", async (req, resp) => {
 
 
 app.listen(5000, () => {  // Start the server and have it listen on port 5000
-    console.log("Server is running on port 5000");  // Log a message to confirm the server is running
+    console.log("Server is running on port 5000");  // Log a message to confirm the server is running or not
 });
